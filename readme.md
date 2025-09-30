@@ -24,3 +24,8 @@ O **Sistema de Gestão de Clientes para Pequenos Negócios** foi desenvolvido pa
 3. Configure o banco de dados FireBase.
 4. Inicie o servidor backend e frontend.
 5. Acesse a aplicação através do navegador
+
+
+
+
+
